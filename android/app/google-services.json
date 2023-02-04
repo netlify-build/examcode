@@ -1,0 +1,231 @@
+{
+  "project_info": {
+    "project_number": "220329879017",
+    "firebase_url": "https://testj6w-default-rtdb.firebaseio.com",
+    "project_id": "testj6w",
+    "storage_bucket": "testj6w.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220329879017:android:6aaabf7dd6c6c117135778",
+        "android_client_info": {
+          "package_name": "com.codingexam23.io"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220329879017-321crarg9dc3eah7ghraukcet8pe9bv5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codingexam23.io",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "220329879017-l8ve0kd7mksbmagk53q7drtg1jcpmp1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbZ7iLamZTiMu9iKZSsjmvFYwMe6ndhHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220329879017-l8ve0kd7mksbmagk53q7drtg1jcpmp1p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "220329879017-6kji56r7cc0bfrfabhd0la2rtdeojafh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.emilalvarocode.io"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220329879017:android:1f6f38736c197d67135778",
+        "android_client_info": {
+          "package_name": "com.easerranoexam.io"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220329879017-q41a7rq8hanjn9mbe9kb219tb0fglr0a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.easerranoexam.io",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "220329879017-l8ve0kd7mksbmagk53q7drtg1jcpmp1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbZ7iLamZTiMu9iKZSsjmvFYwMe6ndhHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220329879017-l8ve0kd7mksbmagk53q7drtg1jcpmp1p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "220329879017-6kji56r7cc0bfrfabhd0la2rtdeojafh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.emilalvarocode.io"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220329879017:android:5766b66c76879c3e135778",
+        "android_client_info": {
+          "package_name": "com.emilalvarocode.io"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220329879017-paushdv45bgrqbgeni8i89942dj7r531.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.emilalvarocode.io",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "220329879017-l8ve0kd7mksbmagk53q7drtg1jcpmp1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbZ7iLamZTiMu9iKZSsjmvFYwMe6ndhHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220329879017-l8ve0kd7mksbmagk53q7drtg1jcpmp1p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "220329879017-6kji56r7cc0bfrfabhd0la2rtdeojafh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.emilalvarocode.io"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220329879017:android:93737f785745cb95135778",
+        "android_client_info": {
+          "package_name": "com.flutterexamination.courts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220329879017-a04ts91rojitbts37rkm7nij0ve1gll8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterexamination.courts",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "220329879017-l8ve0kd7mksbmagk53q7drtg1jcpmp1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbZ7iLamZTiMu9iKZSsjmvFYwMe6ndhHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220329879017-l8ve0kd7mksbmagk53q7drtg1jcpmp1p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "220329879017-6kji56r7cc0bfrfabhd0la2rtdeojafh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.emilalvarocode.io"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220329879017:android:4f059f50518fd15c135778",
+        "android_client_info": {
+          "package_name": "com.thisiscodingexam.io"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220329879017-2g0nsqaufvp9umqic2qqj72hmjlg5v4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thisiscodingexam.io",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "220329879017-l8ve0kd7mksbmagk53q7drtg1jcpmp1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbZ7iLamZTiMu9iKZSsjmvFYwMe6ndhHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220329879017-l8ve0kd7mksbmagk53q7drtg1jcpmp1p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "220329879017-6kji56r7cc0bfrfabhd0la2rtdeojafh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.emilalvarocode.io"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
